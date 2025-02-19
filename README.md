@@ -1,7 +1,7 @@
-# 🚀 TripTailor - Your Personalized Travel Itinerary Generator!
+# 🚀 Safar_Sarthi - Your Personalized Travel Itinerary Generator!
 
 ## 🌍 Overview
-Planning your dream vacation just got easier! **TripTailor** is an intelligent travel planning tool that creates customized itineraries based on your preferences, budget, and duration. From detecting your nearest airport to recommending top-notch activities, hotels, and restaurants, TripTailor takes the stress out of trip planning and lets you focus on enjoying the journey.
+Planning your dream vacation just got easier! **Safar_Sarthi** is an intelligent travel planning tool that creates customized itineraries based on your preferences, budget, and duration. From detecting your nearest airport to recommending top-notch activities, hotels, and restaurants, Safar_Sarthi takes the stress out of trip planning and lets you focus on enjoying the journey.
 
 <div align="left">
   <img src="Images/t1.jpeg" alt="Project Diagram" width="100%" />
@@ -17,30 +17,10 @@ Planning your dream vacation just got easier! **TripTailor** is an intelligent t
 
 ## 📂 Project Structure
 ```
-TripTailor/
+Safar_Sarthi/
 │-- travel_recom.py    # Main application logic
 │-- airports.csv       # Airport data for nearest airport detection
 │-- README.md          # Project documentation (this file)
-```
-
-## 🛠️ Installation & Setup
-### Prerequisites
-Ensure you have **Python 3.7+** installed along with the required dependencies.
-
-### Step 1: Clone the Repository
-```sh
- git clone https://github.com/your-username/TripTailor.git
- cd TripTailor
-```
-
-### Step 2: Install Dependencies
-```sh
-pip install -r requirements.txt
-```
-
-### Step 3: Run the Application
-```sh
-streamlit run travel_recom.py
 ```
 
 ## 🔧 How It Works
@@ -56,7 +36,7 @@ streamlit run travel_recom.py
 </div>
 
 ## 🔑 API Integrations
-TripTailor leverages multiple APIs to provide real-time and accurate travel information:
+Safar_Sarthi leverages multiple APIs to provide real-time and accurate travel information:
 - **TripAdvisor API** - Fetches details of hotels, attractions, and restaurants.
 - **Google Maps API** - Provides directions, distance, and transit options.
 - **OpenWeatherMap API** - Fetches 5-day weather forecasts.
@@ -76,18 +56,11 @@ TripTailor leverages multiple APIs to provide real-time and accurate travel info
 - 📊 **Expense tracking** and budget optimization tools.
 
 ## 🤝 Contributing
-We welcome contributions to enhance TripTailor! To contribute:
+We welcome contributions to enhance Safar_Sarthi! To contribute:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Submit a Pull Request.
 
-
-## 📬 Contact
-For any queries or collaborations, reach out via email at **aatmajsalunke@yahoo.com** or open an issue on the GitHub repository.
-
----
-
-Start planning your perfect trip today with **TripTailor**! 🎒✈️🌍
 
