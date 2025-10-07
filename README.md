@@ -3,9 +3,6 @@
 ## 🌍 Overview
 Planning your dream vacation just got easier! **Safar_Sarthi** is an intelligent travel planning tool that creates customized itineraries based on your preferences, budget, and duration. From detecting your nearest airport to recommending top-notch activities, hotels, and restaurants, Safar_Sarthi takes the stress out of trip planning and lets you focus on enjoying the journey.
 
-<div align="left">
-  <img src="Images/t1.jpeg" alt="Project Diagram" width="100%" />
-</div>
 
 
 ## ✨ Key Features
@@ -31,9 +28,6 @@ Safar_Sarthi/
 5. Get a **day-by-day itinerary** with optimal transit and weather insights.
 6. **Print or save** your itinerary as a PDF!
 
-<div align="right">
-  <img src="Images/t2.jpeg" alt="Project Diagram" width="100%" />
-</div>
 
 ## 🔑 API Integrations
 Safar_Sarthi leverages multiple APIs to provide real-time and accurate travel information:
